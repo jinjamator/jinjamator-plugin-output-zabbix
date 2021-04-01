@@ -1,2 +1,2 @@
 jinjamator-core>=0.10.0
-pyzabbix
+py-zabbix
