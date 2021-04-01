@@ -1,0 +1,1 @@
+jinjamator/plugins/output/zabbix/README.rst
